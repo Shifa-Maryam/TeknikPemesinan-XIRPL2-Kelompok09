@@ -55,9 +55,9 @@ body {
 
 #kelas h1 {
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
     font-size: 50px;
-    width: 500px;
+    width: 80%;
     justify-content: center;
 }
 
