@@ -15,7 +15,7 @@ body {
 /* Navigation */
 .containernav {
   width: 100%;
-  height: 100px;
+  height: auto;
   background: linear-gradient(90deg, #86AEE2 0%, #608BC1 50%, #5B85BA 100%);
   position: sticky;
   top: 0;
